@@ -15,6 +15,7 @@ alias l='ls -CF'
 ################################
 alias D="cd ~/Downloads"
 alias g="git"
+alias d="docker"
 
 alias java_home="/usr/libexec/java_home"
 
